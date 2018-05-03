@@ -1,3 +1,8 @@
+WARNING
+==========
+
+This repository is obsoleted by https://github.com/libkeepass/libkeepass
+
 libkeepass
 ==========
 
